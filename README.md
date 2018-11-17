@@ -18,7 +18,7 @@ __Особенности:__
 
 Linux (bash):
 ```bash
-git clone https://github.com/strizhhh/postgresql-pro-1c.git
+git clone https://github.com/AlexStrizh/postgresql-pro-1c.git
 cd postgresql-pro-1c
 ./build.sh
 ./run.sh
@@ -26,7 +26,7 @@ cd postgresql-pro-1c
 
 Windows (cmd):
 ```bash
-git clone https://github.com/strizhhh/postgresql-pro-1c.git
+git clone https://github.com/AlexStrizh/postgresql-pro-1c.git
 cd postgresql-pro-1c
 build.bat
 run.bat
