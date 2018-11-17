@@ -1,0 +1,1 @@
+docker run -d --name postgresql-pro-1c -v postgresql-pro-1c:/var/lib/postgresql -p 5432:5432 strizhhh/postgresql-pro-1c:9.6
