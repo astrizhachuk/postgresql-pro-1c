@@ -51,6 +51,7 @@ docker pull strizhhh/postgresql-pro-1c:9.6
 ```bash
 docker run --name postgresql-pro-1c \
   -d \
+  -p 5432:5432 \
   -v postgresql-pro-1c-data:/var/lib/postgresql \
   strizhhh/postgresql-pro-1c:latest
 ```
